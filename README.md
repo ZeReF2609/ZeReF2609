@@ -2,10 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Wilder%20Rojas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 # 💫 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Development+Enthusiast;Always+Learning+New+Technologies;Backend+%26+Frontend+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Development+Enthusiast;Always+Learning+New+Technologies;Backend+%26+Frontend+Specialist;🚀+Building+Amazing+Apps;💻+Code+Wizard;🎯+Problem+Solver" alt="Typing SVG" />
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 👨‍💻 **Web Developer Enthusiast**  
 👨‍🎓 **Computer Systems and Networks Technician**  
@@ -70,30 +73,42 @@
 
 ## 📊 GitHub Stats
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvchinx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvchinx&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvchinx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvchinx&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvchinx&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvchinx&theme=tokyonight&background=0D1117&border=58A6FF&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak"/>
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ---
 
 ## 🏆 GitHub Activity
 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvchinx&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvchinx&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=false&border_radius=10" alt="GitHub Activity Graph"/>
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 
 ---
 
 ## 🌟 Profile Views Counter
 
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="800">
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dvchinx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284152-8b574a7e-3c19-4ab3-9edc-d92c9c7d5e54.gif" width="1000">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
