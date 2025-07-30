@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Development+Enthusiast;Always+Learning+New+Technologies;Backend+%26+Frontend+Specialist" alt="Typing SVG" />
 
-<img align="right" alt="Coding Cat" width="150" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 👨‍💻 **Web Developer Enthusiast**  
 👨‍🎓 **Computer Systems and Networks Technician**  
