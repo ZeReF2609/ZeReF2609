@@ -1,19 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Wilder%20Rojas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=180&section=header&text=Wilder%20Rojas&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 # 💫 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Development+Enthusiast;Always+Learning+New+Technologies;Backend+%26+Frontend+Specialist;🚀+Building+Amazing+Apps;💻+Code+Wizard;🎯+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Software+Engineer;Backend+%26+Frontend+Specialist;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br/>
 
-👨‍💻 **Web Developer Enthusiast**  
+👨‍💻 **Software Developer & Tech Enthusiast**  
 👨‍🎓 **Computer Systems and Networks Technician**  
-🚀 **Passionate about creating amazing web experiences**  
-🎯 **Backend & Frontend Specialist**
+🚀 **Passionate about building scalable software solutions**  
+🎯 **Specialized in Full Stack Development**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wilder-e-rojas-marin-63a924225">
@@ -71,45 +71,57 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvchinx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvchinx&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvchinx&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=10&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvchinx&layout=compact&langs_count=8&theme=github_dark&border_radius=10&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvchinx&theme=tokyonight&background=0D1117&border=58A6FF&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvchinx&theme=github-dark-blue&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&border_radius=10" alt="GitHub Streak"/>
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ---
 
-## 🏆 GitHub Activity
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+## 🏆 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvchinx&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=false&border_radius=10" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvchinx&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=false&border_radius=10&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 
 ---
 
-## 🌟 Profile Views Counter
-
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="800">
+## 📈 Profile Statistics
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dvchinx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=dvchinx&label=Profile%20Views&color=58a6ff&style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/dvchinx?label=Followers&style=for-the-badge&color=58a6ff)
+  ![GitHub User's stars](https://img.shields.io/github/stars/dvchinx?label=Total%20Stars&style=for-the-badge&color=58a6ff)
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284152-8b574a7e-3c19-4ab3-9edc-d92c9c7d5e54.gif" width="1000">
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<div align="center">
+  
+### 🤝 Let's Connect & Collaborate
+
+**"Building the future, one line of code at a time"**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=120&section=footer"/>
 
 </div>
